@@ -10,7 +10,7 @@ import Layout from '../layouts/Layout.astro';
 		</div>
 		<ul class="flex mt-8">
 			<li class="flex items-center mx-4 border  px-3 py-2 hover:scale-105 transition-all cursor-pointer">
-				<a class="flex items-center" href="http://discord.devsdope.com/"><img class="h-12 mr-4" alt="Discord" src="discord.svg"/>Discord</a>
+				<a class="flex items-center" href="http://discord.devsdope.com/" target="_blank"><img class="h-12 mr-4" alt="Discord" src="discord.svg"/>Discord</a>
 			</li>
 			<li class="flex items-center mx-4 border  px-3 py-2 hover:scale-105 transition-all cursor-pointer">
 				<a class="flex items-center" href="https://www.linkedin.com/company/dope-devs " target="_blank">
@@ -19,8 +19,13 @@ import Layout from '../layouts/Layout.astro';
 			</li>
 		</ul>
 	</main>
-	<footer class="absolute bottom-0 py-8 left-0 right-0 border border-top">
-		<p class="text-xl text-primary text-center">A community by <a class="font-bold underline" href="https://khattak.dev/">khattak.dev</a></p>
+	<footer class="absolute bottom-0 py-8 left-0 right-0 border border-top text-center">
+		<p class="text-xl text-primary text-center">A community by <a class="font-bold underline" href="https://khattak.dev/">khattak.dev</a></p> 
+
+		<a href="https://github.com/khattakdev/dope-devs" target="_blank" class="items-center justify-center hover:scale-105 transition-all gap-2 border inline-flex px-3 py-2 mt-4 cursor-pointer">
+		<img src="github.svg" class="text-primary">Edit on GitHub
+		</a>
+
 	</footer>
 </Layout>
 
