@@ -34,7 +34,7 @@ export default function Home() {
         <h1 className='text-[#3e3e3e] text-2xl font-semibold uppercase'>Our Code of Conduct</h1>
        <div className='flex flex-col md:flex-row items-center'>
        <ul className=' list-disc my-2 space-y-3 font text-[#5a5a5a]'>
-          <li className=''>
+          <li id='contact'>
           We welcome and support people of all backgrounds and identities. This includes but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
           </li>
           <li>We will not tolerate harassment of community members in any form, including but not limited to harassment based on gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.</li>

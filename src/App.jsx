@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header'
-import Home from './Pages/Home'
-import Team from './Pages/Team'
+import Home from './pages/Home'
+import Team from './pages/Team'
 import Events from './pages/Events'
 import './App.css'
 function App() {
