@@ -1,15 +1,8 @@
-# Dope Devs
+# React + Vite
 
-> _Crafting coders, the dope way!_
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## About
-
-Dope Devs, a vibrant community for web developers at all stages, thrives on the ethos of "Crafting coders, the dope way." We're all about elevating each other's skills through collaborative projects, shared learning, and coding together. Our mission centers on making web technologies accessible and enjoyable while fostering a nurturing space for developers to thrive and collectively advance web technologies.
-
-## Socials
-
-- [Discord](https://discord.gg/BkcuaZwP4T)
-- [LinkedIn](https://www.linkedin.com/in/khattakdev/)
-- [Instagram](https://www.instagram.com/dope_devs/)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
