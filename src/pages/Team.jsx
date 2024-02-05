@@ -19,7 +19,7 @@ export default function Team() {
   },
   {
     name: "Hamza Khattak",
-    position: "Community Moderator",
+    position: "Community Manager",
     image: Hamza,
     des: "Hamza Khattak is FrontEnd Web Developer and a Computer Science student. He is a passionate learner and loves to share his knowledge with others. He is a community moderator at Dope Devs and also a content creator. He is also a member of Google Developer Student Club and a Microsoft Learn Student Ambassador.",
     linkedin: "https://www.linkedin.com/in/mzeedev/",
