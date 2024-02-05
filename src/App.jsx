@@ -5,7 +5,6 @@ import Team from './pages/Team'
 import Events from './pages/Events'
 import './App.css'
 function App() {
-
   return (
     <>
       <Router>
@@ -20,5 +19,4 @@ function App() {
     </>
   )
 }
-
 export default App
