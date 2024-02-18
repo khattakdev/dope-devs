@@ -9,7 +9,7 @@ export default function Footer() {
     <>
     <div className='mt-24  border-t-2 border-gray-400 font'>
       <div className='flex mt-3 items-center justify-between mx-3'>
-         <img src={logo} alt="footer" className='lg:w-[120px] w-[50px] md:w-[80px]' />
+         <img src={logo} alt="footer" className='lg:w-[70px] w-[50px] md:w-[50px] my-2' />
          
          <div className=''>
            <ul className='flex md:space-x-6 text-[#3e3e3e] underline cursor-pointer'>

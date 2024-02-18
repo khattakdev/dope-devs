@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <div className='max-w-6xl mx-auto'>
-        <div className='flex items-center flex-col justify-center h-screen '>
+        <div className='flex items-center flex-col justify-center my-24 '>
           <div className='flex items-center'>
             <h1 className='text-6xl font font-bold text-[#3e3e3e]'>Dope Devs</h1>
             <img src={logo} alt="logo" className='h-[60px]' />
@@ -25,8 +25,17 @@ export default function Home() {
         </div>
 
         <div>
-          <h1 className='text-[#3e3e3e] text-2xl font-bold text-center uppercase my-4 font'>Unveiling the Passion Behind <span className='underline'> Dope Devs</span>🔥 </h1>
-          <p className='text-[#5a5a5a] font md:mx-24 mx-3'>Welcome to Dope Devs, a dynamic community that celebrates the art of web design, development, databases, and apps. Rooted in the philosophy of "Crafting coders, the dope way," we are a vibrant collective of individuals at all stages of their coding journey. <strong>Our mission</strong> revolves around creating an inclusive space where web technologies are not just learned but enjoyed. We believe in the power of collaboration, shared learning, and coding together to elevate each other's skills. Whether you're a seasoned web designer, a proficient developer, or someone exploring the realms of databases and apps, you'll find a welcoming home in our community.</p>
+         
+          <p className='text-[#5a5a5a] font md:mx-24 mx-3'>
+At Dope Devs, we believe in the transformative power of code. It's not just about lines on a screen; it's about crafting experiences, pushing  boundaries, and shaping the digital world. That's why we've built a dynamic community that celebrates the art of everything code-related, from web design and development to databases, apps, AI, and beyond.
+We embrace the philosophy of "Crafting coders, the dope way," fostering an inclusive space where anyone, regardless of their skill level, can embark on their coding journey and thrive. Whether you're a seasoned veteran or a curious newcomer, you'll find a welcoming home among our passionate community.
+Collaboration is at our core. We believe that by sharing knowledge, experiences, and challenges, we can all elevate our skills and reach new heights. Our community thrives on open communication, mentorship, and a willingness to help one another.
+Shared learning fuels our fire. We offer a wealth of resources, workshops, and events designed to cater to all levels of expertise. From beginner tutorials to advanced discussions, there's always something new to discover and learn.
+Passion is our compass. We're driven by a shared love for coding and its potential to create positive change. This passion fuels our community, fostering a culture of innovation, creativity, and problem-solving.
+Join us at Dope Devs, and start an this exciting journey with us. Together, we can create, collaborate, and empower each other to become the dopest coders we can be.
+
+
+          </p>
         </div>
 
         <div className='my-24 mx-3'>
