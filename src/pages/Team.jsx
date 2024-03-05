@@ -26,7 +26,7 @@ export default function Team() {
     instagram: "https://www.instagram.com/mzeedev/",
   },
   {
-    name: "Tayyaba Ali",
+ name: "Tayyaba Ali",
     position: "Content Creator",
     image: Tayyaba,
     des: "Tayyaba Ali is a full stack web development enthusiast and a data science student seeking to fuse both the fields to create a greater impact in the world of tech. Her only goal is to make the things  easy for new beginners that she struggled with during the learning curve so that others don't have to go through the same thing and enjoy learning data science and web development.",
